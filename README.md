@@ -1,5 +1,3 @@
-# hello-world
+# projetoEtb
 
-Olá mundo!
-
-Sou um estudante entusiasta de novas tecnologias.
+Projeto para o curso de Informática.
