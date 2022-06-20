@@ -1,3 +1,3 @@
-# projetoEtb
+# CRUD
 
-Projeto para o curso de Informática.
+Projeto do curso de TI, simulando uma loja virtual.
